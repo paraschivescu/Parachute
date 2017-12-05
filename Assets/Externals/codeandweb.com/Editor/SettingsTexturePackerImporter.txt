@@ -1,0 +1,12 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Textures/sprites.tpsheet
+- Assets/Textures/UI.tpsheet
+textureFileNames:
+- Assets/Textures/sprites.png
+- Assets/Textures/UI.png
+normalmapFileNames:
+- 
+- 
+enableDebugOutput: 0
